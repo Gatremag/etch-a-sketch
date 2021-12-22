@@ -1,0 +1,18 @@
+button {
+    margin-bottom: 15px;
+}
+
+#container {
+    width: 960px;
+    height: 960px;
+    display: grid;
+}
+
+.square {
+    background-color: rgb(241, 241, 241);
+    border: solid 1px white;
+}
+
+.hover-change {
+    background-color: black;
+}
